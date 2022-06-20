@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 ---
 
 # Troubleshooting
@@ -13,8 +13,7 @@ Note: If you encounter any problems after creating a shadow Google identity plea
 * Enter your name.
 * Click **Use my current email address instead**.
 
-
-<!-- ![alt_text](images/image1.png "image_tooltip") -->
+![Google Shadow Identity](images/google-shadow-identity.png)
 
 * Enter your current email address.
 * Click Next.

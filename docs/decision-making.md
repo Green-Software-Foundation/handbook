@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 # Decision Making
@@ -23,33 +23,26 @@ The Working Group Chair is responsible for issuing all notifications of meetings
 ```
 
 
-As part of their responsibilities defined in [Roles & Responsibilities](#heading=h.u6wogeqyf3y7), WG chairs and officers need to ensure efficient and effective decision-making.
-
-
+As part of their responsibilities defined in [Roles & Responsibilities](roles-and-responsibilities.md)), Working Group chairs and officers need to ensure efficient and effective decision-making.
 
 * The decision-making process in WGs is intended to be as inclusive as possible.
 * WGs shall attempt to use consensus to make decisions.
 * If consensus cannot be reached, voting mechanisms MAY be used.
 * Formal notice SHALL be given for decision making, e.g.:
-    * Inclusion of a document on the agenda, proposing a specific decision to be taken (e.g. Pull Request).
-    * Inclusion of an item directly in the agenda (e.g. proposed next meeting date).
-    * Items proposed for Approval via the group mailing list (e.g. agreement a document revision).
-    * Inclusion of a document for decision in an electronic Review, Comment and Approval event
-    * Inclusion of a document for decision in an e-vote (Supermajority) vote.
+  * Inclusion of a document on the agenda, proposing a specific decision to be taken (e.g. Pull Request).
+  * Inclusion of an item directly in the agenda (e.g. proposed next meeting date).
+  * Items proposed for Approval via the group mailing list (e.g. agreement a document revision).
+  * Inclusion of a document for decision in an electronic Review, Comment and Approval event
+  * Inclusion of a document for decision in an e-vote (Supermajority) vote.
 
 The above list is not exhaustive.
 
-
-
 * There SHALL be no distinction in the decision-making merit of real-time or non-real-time meetings.
-    * In real-time meetings, consensus can be determined by receiving no sustained objections to a proposal.
-    * In non-real-time meetings, consensus SHOULD be developed using Review, Comment and Agreement periods, e.g. using Review and Approval
+  * In real-time meetings, consensus can be determined by receiving no sustained objections to a proposal.
+  * In non-real-time meetings, consensus SHOULD be developed using Review, Comment and Agreement periods, e.g. using Review and Approval
 * Proposals SHALL be available for a given period.
 
-
 ## Seeking Consensus
-
-
 
 * Groups shall endeavour to reach a consensus on all decisions.
 * Informal methods of reaching consensus are encouraged (e.g. a show of hands).
@@ -57,10 +50,7 @@ The above list is not exhaustive.
 * However, the Chair SHALL ensure that unavailable contributions or participants do not delay progress.
 * Agreement SHALL be sought in all forms of meeting.
 
-
 ## Handling objections when seeking consensus
-
-
 
 * Objections from a small minority SHOULD be minuted, and the objecting delegates SHOULD be questioned if having their objections minuted is sufficient, and they agree not to sustain their objections.
     * If such agreements are secured, then there is a consensus for approving the proposal.
@@ -80,10 +70,7 @@ The above list is not exhaustive.
 
 # Using Supermajority vote to achieve agreement
 
-
 ## Phrasing of Voting Questions
-
-
 
 * The Chair ensures that questions to be voted upon SHALL be phrased concisely and unambiguously.
 * Questions SHOULD NOT be phrased as "The group SHALL not do xyz". Examples of appropriate questions are:
@@ -100,9 +87,7 @@ The above list is not exhaustive.
 ## Voting on Technical Issues
 
 
-## Note: Supermajority Vote - 1 Member Organisation represents 1 Vote
-
-
+**Note: Supermajority Vote - 1 Member Organisation represents 1 Vote**
 
 * Before voting, a clear definition of the issuer SHALL be provided by the Chair.
 * Members eligible to vote SHALL only be entitled to one vote each.
@@ -118,4 +103,5 @@ The above list is not exhaustive.
     * Electronic voting MUST remain open for no less than 7 days.
 
 
-## Note: electronic votes require no advance notice but must be made pursuant to a clear and unambiguous ballot with only “yes” and “no” options, and the voting must remain open for no less than 7 days. These notification requirements with respect to the Project may be overridden upon unanimous consent of all Steering Members and General Members that have attended and participated in at least 50% of the last 4 meetings of the Project.
+**Note: electronic votes require no advance notice but must be made pursuant to a clear and unambiguous ballot with only “yes” and “no” options, and the voting must remain open for no less than 7 days. These notification requirements with respect to the Project may be overridden upon unanimous consent of all Steering Members and General Members that have attended and participated in at least 50% of the last 4 meetings of the Project.
+**
