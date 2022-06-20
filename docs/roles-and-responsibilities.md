@@ -45,9 +45,6 @@ sidebar_position: 4
 
 ## Product Manager
 
-Owns the reporting of the Foundations progress towards OKRs, including Google Analytics reports for traffic to the website. 
-Responsible for ensuring people are using links in such a way that it feeds into our Google Analytics reports and OKRs.
-
 * Helps to define the product vision together with the project lead.
 * Writes the project plan for achieving success.
 * Defines thw milestones, dates and work back plan for the project.
@@ -55,6 +52,7 @@ Responsible for ensuring people are using links in such a way that it feeds into
 * Helps teams execute on a shared vision.
 * Owns team backlog, prioritizes tasks and allocates work to project members
 * Works with internal and external stakeholders.
+* Owns the reporting of the projects progress.
 
 ## Project Lead
 
